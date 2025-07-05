@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e564cb8b.css",
+    "main.js": "/static/js/main.d3b6fd13.js",
+    "static/js/488.064af74e.chunk.js": "/static/js/488.064af74e.chunk.js",
+    "static/media/bilal.png": "/static/media/bilal.d35cbac4ac8015434bf6.png",
+    "static/media/logo.png": "/static/media/logo.f028259fdd92c0583451.png",
+    "static/media/bg.png": "/static/media/bg.654f87e50f3b5ac98693.png",
+    "static/media/javascript.png": "/static/media/javascript.6fef668d9320d524d6dd.png",
+    "static/media/core.png": "/static/media/core.c95ba8ef6b95bcf703a8.png",
+    "static/media/html.png": "/static/media/html.ae2f9a98e02313c22c23.png",
+    "static/media/msoffice.png": "/static/media/msoffice.4226b545c9068c2a2508.png",
+    "static/media/web.png": "/static/media/web.7b43a1e523bb27450aac.png",
+    "static/media/adca.png": "/static/media/adca.9cb94d658d05dfbed4fb.png",
+    "static/media/graphic.png": "/static/media/graphic.56a5f6e9d4eaecf860a0.png",
+    "static/media/tallyprime.png": "/static/media/tallyprime.6a68a5f2685365f3b7df.png",
+    "static/media/basic.png": "/static/media/basic.dad321b5259dfc79958b.png",
+    "static/media/css.png": "/static/media/css.072cdfd55497bdb723b1.png",
+    "static/media/photoshop.png": "/static/media/photoshop.872991303b1d7f1f7df7.png",
+    "static/media/typing.png": "/static/media/typing.7c04ba1cbb593a4b3cd2.png",
+    "static/media/excel.png": "/static/media/excel.13800ea848e381c510c8.png",
+    "static/media/tally.png": "/static/media/tally.d1328ac51f203be1533e.png",
+    "static/media/dca.png": "/static/media/dca.7518c7f7024f5308e54a.png",
+    "static/media/css3.png": "/static/media/css3.ee3641f2306fbc9b8f2b.png",
+    "static/media/certicate.png": "/static/media/certicate.29442911d7a4fed16f2a.png",
+    "index.html": "/index.html",
+    "main.e564cb8b.css.map": "/static/css/main.e564cb8b.css.map",
+    "main.d3b6fd13.js.map": "/static/js/main.d3b6fd13.js.map",
+    "488.064af74e.chunk.js.map": "/static/js/488.064af74e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e564cb8b.css",
+    "static/js/main.d3b6fd13.js"
+  ]
+}
