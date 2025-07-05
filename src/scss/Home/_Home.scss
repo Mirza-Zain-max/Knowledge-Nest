@@ -1,0 +1,34 @@
+main.Hero{
+    .Hero_Section{
+        background-image: url('../../asset/bg.png');
+        width: 100%;
+        height: 90vh; 
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+main.Courses{
+    #course_link{
+        text-decoration: none;
+        color: black;
+    }
+    .course_box{
+        box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px, rgba(0, 0, 0, 0.07) 0px 2px 2px, rgba(0, 0, 0, 0.07) 0px 4px 4px, rgba(0, 0, 0, 0.07) 0px 8px 8px, rgba(0, 0, 0, 0.07) 0px 16px 16px;
+    }
+}
+main.review{
+    .swiper {
+        width: 100%;
+        height: auto;
+      }
+      .swiper-slide {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      
+}
